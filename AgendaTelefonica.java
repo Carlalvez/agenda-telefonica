@@ -32,4 +32,12 @@ public class AgendaTelefonica
     public void verNumero(String nombre){
         System.out.println(agendaTelefono.get(nombre));
     }
+    
+    /**
+     * Printea los nombres almacenados.
+     */
+    public void imprimirNombres()
+    {
+        System.out.println(agendaTelefono.keySet());
+    }
 }
