@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=AgendaTelefonica
+comment0.text=\r\n\ Almacenamiento\ y\ muestra\ de\ una\ Agenda\ telef\u00F3nica\r\n\r\n\ @author\ (Carlos\ Alvarez)\r\n\ @version\ (18/03/2018)\r\n
+comment1.params=
+comment1.target=AgendaTelefonica()
+comment1.text=\r\n\ Constructor\ de\ AgendaTelefonica\r\n
+comment2.params=nombre\ numero
+comment2.target=void\ introducirNumero(java.lang.String,\ java.lang.String)
+comment2.text=\r\n\ @Introducir\ el\ numero\ de\ un\ contacto\r\n
+comment3.params=nombre
+comment3.target=void\ verNumero(java.lang.String)
+comment3.text=\r\n\ @Devolver\ el\ numero\ de\ un\ contacto.\r\n
+numComments=4
